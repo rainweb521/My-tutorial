@@ -5,7 +5,7 @@
 * Eclipse
 * Jdk8
 * Tomcat8
-* Mysql5.x
+* Mysql5.7
 
 ## 1. jsp-servlet程序
 再基于上述环境搭建完毕后。

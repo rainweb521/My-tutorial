@@ -14,7 +14,9 @@
 
 ![E502FF91-4759-4F1D-B45E-5476187031FD](media/E502FF91-4759-4F1D-B45E-5476187031FD.png)
 
-3. 大部分程序这时候都会报错，例如.jsp的文件全部报错，这种情况是项目的tomcat找不到你本地的tomcat，你需要进入项目修改一下你本地的tomcat
+3. 大部分程序这时候都会报错，例如.jsp的文件全部报错，如下图，这种情况是项目的tomcat找不到你本地的tomcat，你需要进入项目修改一下你本地的tomcat
+![1](media/1-1.png)
+
 在java build path中，看看有没有tomcat和jre
 ![1B49B4FE625EA58BFE2F6E0886FED3E9](media/1B49B4FE625EA58BFE2F6E0886FED3E9.jpg)
 ![B0F2FAE67C0FF6AD11B4F049867](media/B0F2FAE67C0FF6AD11B4F049867C8847.jpg)

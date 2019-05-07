@@ -16,8 +16,9 @@
 2. PHP项目部署文档(Windows与Mac平台)
 3. Python2-Django项目部署文档
 4. Hadoop生态环境基础框架搭建(Hadoop,HBase,Hive,Kafka,Flume)
-5. Spark框架搭建
-6. 开始一个完整的大数据项目(基本的增删改查以及生产者和消费者的使用)
+5. Hadoop环境启动命令
+6. Spark框架搭建
+7. 开始一个完整的大数据项目(基本的增删改查以及生产者和消费者的使用)
 
 
 

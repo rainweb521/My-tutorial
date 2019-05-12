@@ -11,15 +11,23 @@
 大数据开发是很麻烦的，所以我尽量从搭建，部署，开发整个流程都做出来，单独的环节可利用率很低。
 还有以前一些程序的搭建过程。
 
-## 目录
+## 目录（有蓝色链接的为已完成）
+## 环境教程
 1. Java项目部署文档(普通JSP，SSM框架，SpringBoot框架)
 2. PHP项目部署文档(Windows与Mac平台)
 3. Python2-Django项目部署文档
 4. Hadoop生态环境基础框架搭建(Hadoop,HBase,Hive,Kafka,Flume)
 5. Hadoop环境启动命令
 6. Spark框架搭建
-7. 开始一个完整的大数据项目(基本的增删改查以及生产者和消费者的使用)
-8. SparkStreaming的使用
+7. Maven依赖的配置
+## 开发教程
+### SpringBoot开发
+1. 开始你的第一个SpringBoot开发的WEB程序
+2. 使用SpringBoot-Email来发送多种类型邮件
+
+### 大数据开发
+1. 开始一个完整的大数据项目(基本的增删改查以及生产者和消费者的使用)
+2. SparkStreaming的使用
 
 
 

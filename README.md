@@ -13,9 +13,9 @@
 
 ## 目录（有蓝色链接的为已完成）
 ## 环境教程
-1. [Java项目部署文档(普通JSP，SSM框架，SpringBoot框架)](Java项目部署文档.md)
-2. [PHP项目部署文档](PHP部署文档.md)
-3. [Python2-Django项目部署文档](Python2-Django部署文档.md)
+1. [Java项目部署文档(JSP,SSM,SpringBoot)](Java项目部署文档.md)
+2. [PHP项目部署](PHP部署文档.md)
+3. [Django项目部署](Python2-Django部署文档.md)
 4. [Java安装](Java安装.md)
 5. [Hadoop安装](Hadoop安装.md)
 6. [Zookeeper安装](Zookeeper.md)
@@ -26,14 +26,18 @@
 11. Maven依赖的配置
 
 
-## 开发教程
+## 视频开发教程
 ### SpringBoot开发
 1. 开始你的第一个SpringBoot开发的WEB程序
-2. 使用SpringBoot-Email来发送多种类型邮件
+2. 使用SpringBoot来上传文件
+3. 使用SpringBoot-Email来发送多种类型邮件
+4. 使用SpringBoot-Email操作多个用户发送邮件
 
 ### 大数据开发
-1. 开始一个完整的大数据项目(基本的增删改查以及生产者和消费者的使用)
-2. SparkStreaming的使用
+1. 基于HDFS的大数据存储开发
+2. 基于HBase的数据仓库操作流程
+3. 基于Kafka的消费者生产者体验
+4. SparkStreaming的流处理使用
 
 
 

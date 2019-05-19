@@ -21,7 +21,7 @@
 6. [Zookeeper安装](Zookeeper.md)
 7. [HBase安装](HBase安装.md)
 8. [Hive安装](Hive安装.md)
-9. [Hadoop环境启动命令](Hadoop环境启动命令.md)
+9. [Hadoop环境启动命令](faHadoop环境启动命令.md)
 10. Spark框架搭建
 11. Maven依赖的配置
 
@@ -34,10 +34,12 @@
 4. 使用SpringBoot-Email操作多个用户发送邮件
 
 ### 大数据开发
-1. 基于HDFS的大数据存储开发
+1. [基于HDFS的大数据存储开发文档](基于HDFS的大数据存储开发.md)--
+ [视频链接](https://www.bilibili.com/video/av52960647/)
 2. 基于HBase的数据仓库操作流程
 3. 基于Kafka的消费者生产者体验
-4. SparkStreaming的流处理使用
+4. 使用HDFS配合MySQL实现简易云存储系统
+5. SparkStreaming的流处理使用
 
 
 

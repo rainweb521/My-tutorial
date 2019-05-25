@@ -13,17 +13,18 @@
 
 ## 目录（有蓝色链接的为已完成）
 ## 环境教程
-1. [Java项目部署文档(JSP,SSM,SpringBoot)](Java项目部署文档.md)
-2. [PHP项目部署](PHP部署文档.md)
-3. [Django项目部署](Python2-Django部署文档.md)
-4. [Java安装](Java安装.md)
-5. [Hadoop安装](Hadoop安装.md)
-6. [Zookeeper安装](Zookeeper.md)
-7. [HBase安装](HBase安装.md)
-8. [Hive安装](Hive安装.md)
-9. [Hadoop环境启动命令](faHadoop环境启动命令.md)
-10. Spark框架搭建
-11. Maven依赖的配置
+1. [Java项目部署文档](Java项目部署文档.md)
+2. 人事管理系统部署视频
+3. [PHP项目部署](PHP部署文档.md)
+4. [Django项目部署](Python2-Django部署文档.md)
+5. [Java安装](Java安装.md)
+6. [Hadoop安装](Hadoop安装.md)
+7. [Zookeeper安装](Zookeeper.md)
+8. [HBase安装](HBase安装.md)
+9. [Hive安装](Hive安装.md)
+10. [Hadoop环境启动命令](faHadoop环境启动命令.md)
+11. Spark框架搭建
+12. Maven依赖的配置
 
 
 ## 视频开发教程

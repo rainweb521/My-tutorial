@@ -14,7 +14,7 @@
 ## 目录（有蓝色链接的为已完成）
 ## 环境教程
 1. [Java项目部署文档](Java项目部署文档.md)
-2. [人事管理系统部署视频](链接:https://pan.baidu.com/s/1DkT4Pyb6zeEIKNYtL4wvdw)  密码:ty39
+2. [人事管理系统部署视频](https://pan.baidu.com/s/1DkT4Pyb6zeEIKNYtL4wvdw)  密码:ty39
 3. [PHP项目部署](PHP部署文档.md)
 4. [Django项目部署](Python2-Django部署文档.md)
 5. [Java安装](Java安装.md)

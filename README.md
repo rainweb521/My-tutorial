@@ -29,7 +29,7 @@
 
 ## 视频开发教程
 ### SpringBoot开发
-1. 开始你的第一个SpringBoot开发的WEB程序
+1. [开始你的第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
 2. 使用SpringBoot来上传文件
 3. 使用SpringBoot-Email来发送多种类型邮件
 4. 使用SpringBoot-Email操作多个用户发送邮件

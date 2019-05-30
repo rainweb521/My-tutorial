@@ -10,23 +10,9 @@
 这里会写Java，Python，PHP，以及比较迷的Scala，因为我的工作是大数据，所以主要还是以大数据为主，平时自己做的一些好玩的程序如果有时间也会分享到这里。
 大数据开发是很麻烦的，所以我尽量从搭建，部署，开发整个流程都做出来，单独的环节可利用率很低。
 还有以前一些程序的搭建过程。
+###  有问题的可以加入群聊：226520254
 
 ## 目录（有蓝色链接的为已完成）
-## 环境教程
-1. [Java项目部署文档](Java项目部署文档.md)
-2. [PHP项目部署](PHP部署文档.md)
-3. [Django项目部署](Python2-Django部署文档.md)
-4. [Java安装](Java安装.md)
-5. [Hadoop安装](Hadoop安装.md)
-6. [Zookeeper安装](Zookeeper.md)
-7. [HBase安装](HBase安装.md)
-8. [Hive安装](Hive安装.md)
-9. [Hadoop环境启动命令](faHadoop环境启动命令.md)
-10. Spark框架搭建
-11. Maven依赖的配置
-12. [人事管理系统部署视频](https://www.bilibili.com/video/av53594307/)
-
-
 ## 视频开发教程
 ### SpringBoot开发
 1. [开始你的第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
@@ -43,10 +29,26 @@
 5. SparkStreaming的流处理使用
 
 
+## 环境教程
+1. [Java项目部署文档](Java项目部署文档.md)
+2. [PHP项目部署](PHP部署文档.md)
+3. [Django项目部署](Python2-Django部署文档.md)
+4. [Java安装](Java安装.md)
+5. [Hadoop安装](Hadoop安装.md)
+6. [Zookeeper安装](Zookeeper.md)
+7. [HBase安装](HBase安装.md)
+8. [Hive安装](Hive安装.md)
+9. [Hadoop环境启动命令](faHadoop环境启动命令.md)
+10. Spark框架搭建
+11. Maven依赖的配置
+12. [人事管理系统部署视频](https://www.bilibili.com/video/av53594307/)
+
+
+
 
 
   
 
 
 
-## 有问题的可以加入群聊：226520254
+

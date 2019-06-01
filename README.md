@@ -16,9 +16,8 @@
 ## 视频开发教程
 ### SpringBoot开发
 1. [开始你的第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
-2. 使用SpringBoot来上传文件
+2. [使用SpringBoot来上传文件](https://www.bilibili.com/video/av54005471/)
 3. 使用SpringBoot-Email来发送多种类型邮件
-4. 使用SpringBoot-Email操作多个用户发送邮件
 
 ### 大数据开发
 1. [基于HDFS的大数据存储开发文档](基于HDFS的大数据存储开发.md)--
@@ -42,6 +41,7 @@
 10. Spark框架搭建
 11. Maven依赖的配置
 12. [人事管理系统部署视频](https://www.bilibili.com/video/av53594307/)
+13. [请假管理系统部署与讲解视频](https://www.bilibili.com/video/av54105492/)
 
 
 

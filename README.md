@@ -32,16 +32,17 @@
 1. [Java项目部署文档](Java项目部署文档.md)
 2. [PHP项目部署](PHP部署文档.md)
 3. [Django项目部署](Python2-Django部署文档.md)
-4. [Java安装](Java安装.md)
-5. [Hadoop安装](Hadoop安装.md)
-6. [Zookeeper安装](Zookeeper.md)
-7. [HBase安装](HBase安装.md)
-8. [Hive安装](Hive安装.md)
-9. [Hadoop环境启动命令](faHadoop环境启动命令.md)
-10. Spark框架搭建
-11. Maven依赖的配置
-12. [人事管理系统部署视频](https://www.bilibili.com/video/av53594307/)
-13. [请假管理系统部署与讲解视频](https://www.bilibili.com/video/av54105492/)
+4. [用户配置](用户配置.md)
+5. [Java安装](Java安装.md)
+6. [Hadoop安装](Hadoop安装.md)
+7. [Zookeeper安装](Zookeeper.md)
+8. [HBase安装](HBase安装.md)
+9. [Hive安装](Hive安装.md)
+10. [Hadoop环境启动命令](faHadoop环境启动命令.md)
+11. Spark框架搭建
+12. Maven依赖的配置
+13. [人事管理系统部署视频](https://www.bilibili.com/video/av53594307/)
+14. [请假管理系统部署与讲解视频](https://www.bilibili.com/video/av54105492/)
 
 
 

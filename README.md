@@ -15,8 +15,8 @@
 ## 目录（有蓝色链接的为已完成）
 ## 视频开发教程
 ### SpringBoot开发
-1. [开始你的第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
-2. [使用SpringBoot来上传文件](https://www.bilibili.com/video/av54005471/)
+1. [开始第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
+2. [使用SpringBoot来上传文件](SpringBoot上传文件.md)
 3. 使用SpringBoot-Email来发送多种类型邮件
 
 ### 大数据开发

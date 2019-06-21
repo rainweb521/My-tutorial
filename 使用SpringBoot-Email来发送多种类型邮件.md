@@ -71,6 +71,7 @@ public void sendInlineMail() throws Exception {	MimeMessage mimeMessage = mailSe
 
 最后，我们在单元测试中加入发送模板邮件的测试用例，具体如下：
 
+
 ```
 public void sendTemplateMail() throws Exception {	MimeMessage mimeMessage = mailSender.createMimeMessage();	MimeMessageHelper helper = new MimeMessageHelper(mimeMessage, true);	helper.setFrom("dyc87112@qq.com");	helper.setTo("dyc87112@qq.com");	helper.setSubject("主题：模板邮件");	Map<String, Object> model = new HashedMap();	model.put("username", "didi");	String text = VelocityEngineUtils.mergeTemplateIntoString( velocityEngine, "template.vm", "UTF-8", model);	helper.setText(text, true);	mailSender.send(mimeMessage);}
 ```

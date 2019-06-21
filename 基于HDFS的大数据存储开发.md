@@ -1,4 +1,5 @@
 # 基于HDFS的大数据存储开发
+# [视频链接https://www.bilibili.com/video/av52960647/](https://www.bilibili.com/video/av52960647/)
 > 本次教程中将使用SpringBoot来操作HDFS的API进行基本的存储开发，教程主要为视频教程，下面为配套的文档对需要注意的过程进行说明。
 
 1. 启动IDEA新建一个SpringBoot项目。

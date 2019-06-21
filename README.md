@@ -19,12 +19,11 @@
 ### SpringBoot开发
 1. [开始第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
 2. [使用SpringBoot来上传文件](SpringBoot上传文件.md)  
-3. [使用SpringBoot-Email来发送多种类型邮件](使用SpringBoot-Email来发送多种类型邮件.md)
+3. [使用SpringBoot-Email来发送多种类型邮件](使用SpringBoot-Email发送多种类型邮件.md)
 4. SpringBoot整合Mybatis实现数据库增删改查
 
 ### 大数据开发
-1. [基于HDFS的大数据存储开发文档](基于HDFS的大数据存储开发.md)--
- [视频链接](https://www.bilibili.com/video/av52960647/)
+1. [基于HDFS的大数据存储开发](基于HDFS的大数据存储开发.md)
 2. 基于HBase的数据仓库操作流程
 3. 基于Kafka的消费者生产者体验
 4. 使用HDFS配合MySQL实现简易云存储系统

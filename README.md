@@ -27,8 +27,7 @@
 2. 基于HBase的数据仓库操作流程
 3. 基于Kafka的消费者生产者体验
 4. 使用HDFS配合MySQL实现简易云存储系统
-5. 
-6. SparkStreaming的流处理使用
+5. SparkStreaming的流处理使用
 
 
 ## 环境教程

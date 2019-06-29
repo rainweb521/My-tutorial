@@ -29,6 +29,7 @@
 4. 使用HDFS配合MySQL实现简易云存储系统
 5. SparkStreaming的流处理使用
 6. Scala基本语法
+7. Scala调用Kafka
 
 
 ## 环境教程

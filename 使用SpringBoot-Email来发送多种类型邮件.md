@@ -36,6 +36,7 @@ spring.mail.host=smtp.qq.comspring.mail.username=用户名spring.mail.password=�
 在上面单元测试中加入如下测试用例（通过MimeMessageHelper来发送一封带有附件的邮件）：
 
 ```
+
 public void sendAttachmentsMail() throws Exception {	MimeMessage mimeMessage = mailSender.createMimeMessage();	MimeMessageHelper helper = new MimeMessageHelper(mimeMessage, true);	helper.setFrom("dyc87112@qq.com");	helper.setTo("dyc87112@qq.com");	helper.setSubject("主题：有附件");	helper.setText("有附件的邮件");	FileSystemResource file = new FileSystemResource(new File("weixin.jpg"));	helper.addAttachment("附件-1.jpg", file);	helper.addAttachment("附件-2.jpg", file);	mailSender.send(mimeMessage);}
 ```
 
@@ -78,7 +79,4 @@ public void sendTemplateMail() throws Exception {	MimeMessage mimeMessage = mail
 
 尝试运行一下，就可以收到内容为 `你好， didi, 这是一封模板邮件!` 的邮件。这里，我们通过传入username的参数，在邮件内容中替换了模板中的 `${username}` 变量。
 
-## 代码示例
-
-本文的相关例子可以查看下面仓库中的 `chapter4-5-1` 目录：
 

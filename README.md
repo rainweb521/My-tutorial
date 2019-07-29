@@ -20,7 +20,7 @@
 1. [开始第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
 2. [使用SpringBoot来上传文件](SpringBoot上传文件.md)  
 3. [使用SpringBoot-Email来发送多种类型邮件](使用SpringBoot-Email发送多种类型邮件.md)
-4. SpringBoot整合Mybatis实现数据库增删改查 
+4. SpringBoot整合Mybatis连接MySQL数据库 
 
 ### 大数据开发
 1. [基于HDFS的大数据存储开发](基于HDFS的大数据存储开发.md)

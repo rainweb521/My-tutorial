@@ -1,6 +1,10 @@
 # Spring Boot中使用JavaMailSender发送邮件
 相信使用过Spring的众多开发者都知道Spring提供了非常好用的 `JavaMailSender` 接口实现邮件发送。在Spring Boot的Starter模块中也为此提供了自动化配置。下面通过实例看看如何在Spring Boot中使用 `JavaMailSender` 发送邮件。
 
+## 视频教程
+[视频教程路径](https://www.bilibili.com/video/av61336524/)
+## 代码链接为项目中的email文件夹
+
 ## 快速入门
 
 在Spring Boot的工程中的 `pom.xml` 中引入 `spring-boot-starter-mail` 依赖：

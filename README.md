@@ -31,7 +31,9 @@
 6. Scala基本语法
 7. Scala调用Kafka
 
+### 设计模式
 
+1. [策略模式](http://www.rain1024.com/2019/09/22/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%b8%80%e7%ab%a0%e7%ad%96%e7%95%a5%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
 
 
 

@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+      - id: neo_route
+        uri: http://www.ityouknow.com
+        predicates:
+        - Path=/spring-cloud

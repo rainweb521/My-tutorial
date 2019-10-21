@@ -1,4 +1,9 @@
 package com.rain.demo2;
 
-public class NYStyleCheesePizza {
+import com.rain.demo1.Pizza;
+
+public class NYStyleCheesePizza extends Pizza {
+    public NYStyleCheesePizza() {
+
+    }
 }

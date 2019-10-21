@@ -1,4 +1,6 @@
 package com.rain.demo2;
 
-public class CondimentDecorator {
+public abstract class CondimentDecorator extends Beverage {
+
+    public abstract String getDescription();
 }

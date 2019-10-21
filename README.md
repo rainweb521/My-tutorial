@@ -8,8 +8,8 @@
 
 ## 概述
 这里会写Java，Python，PHP，以及比较迷的Scala，因为我的工作是大数据，所以主要还是以大数据为主，平时自己做的一些好玩的程序如果有时间也会分享到这里。
-大数据开发是很麻烦的，所以我尽量从搭建，部署，开发整个流程都做出来，单独的环节可利用率很低。
-还有以前一些程序的搭建过程。
+大数据开发是很麻烦的，所以我尽量从搭建，部署，开发整个流程都做出来，单独的环节可利用率很低。还有以前一些程序的搭建过程。
+
 ###  有问题的可以加入群聊： 
 ### 群一：226520254（满）
 ### 群二：793838509
@@ -20,7 +20,15 @@
 1. [开始第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
 2. [使用SpringBoot来上传文件](SpringBoot上传文件.md)  
 3. [使用SpringBoot-Email来发送多种类型邮件](使用SpringBoot-Email发送多种类型邮件.md)
-4. SpringBoot整合Mybatis连接MySQL数据库 
+4. SpringBoot整合TkMybatis无需编写mapper
+5. 在SpringBoot中使用AOP进行切面编程
+6. 
+
+### SpringCloud开发
+
+1. 搭建Eureka高可用服务注册集群
+2. 使用Feign实现多端远程调用API
+3. [Gateway网关简介及断言的使用](使用Gateway网关对请求过滤验证.md)
 
 ### 大数据开发
 1. [基于HDFS的大数据存储开发](基于HDFS的大数据存储开发.md)
@@ -34,6 +42,9 @@
 ### 设计模式
 
 1. [策略模式](http://www.rain1024.com/2019/09/22/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%b8%80%e7%ab%a0%e7%ad%96%e7%95%a5%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
+2. [观察者模式](http://www.rain1024.com/2019/09/27/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%ba%8c%e7%ab%a0%e8%a7%82%e5%af%9f%e8%80%85%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
+3. [装饰者模式](http://www.rain1024.com/2019/10/14/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%b8%89%e7%ab%a0-%e8%a3%85%e9%a5%b0%e8%80%85%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
+4. [单件模式](http://www.rain1024.com/2019/10/21/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%ba%94%e7%ab%a0%e5%8d%95%e4%bb%b6%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
 
 
 

@@ -1,4 +1,4 @@
-package com.rain.demo2;
+package com.rain.compostie;
 
 import com.rain.demo1.Pizza;
 

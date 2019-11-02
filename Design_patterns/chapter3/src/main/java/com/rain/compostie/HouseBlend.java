@@ -1,4 +1,4 @@
-package com.rain.demo2;
+package com.rain.compostie;
 
 public class HouseBlend extends Beverage {
 

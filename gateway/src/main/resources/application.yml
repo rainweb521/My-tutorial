@@ -8,6 +8,6 @@ spring:
           enabled: true
       routes:
       - id: neo_route
-        uri: http://www.ityouknow.com
+        uri: http://www.baidu.com
         predicates:
-        - Path=/spring-cloud
+        - Path=/*

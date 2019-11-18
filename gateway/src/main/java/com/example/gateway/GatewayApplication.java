@@ -11,9 +11,9 @@ public class GatewayApplication {
     public static void main(String[] args) {
         SpringApplication.run(GatewayApplication.class, args);
     }
-    @Bean
-    public MyGatewayFilter myGatewayFilter(){
-        return new MyGatewayFilter();
-    }
+//    @Bean
+//    public MyGatewayFilter myGatewayFilter(){
+//        return new MyGatewayFilter();
+//    }
 
 }

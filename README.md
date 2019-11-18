@@ -45,6 +45,9 @@
 2. [观察者模式](http://www.rain1024.com/2019/09/27/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%ba%8c%e7%ab%a0%e8%a7%82%e5%af%9f%e8%80%85%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
 3. [装饰者模式](http://www.rain1024.com/2019/10/14/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%b8%89%e7%ab%a0-%e8%a3%85%e9%a5%b0%e8%80%85%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
 4. [单件模式](http://www.rain1024.com/2019/10/21/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%ba%94%e7%ab%a0%e5%8d%95%e4%bb%b6%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
+5. [命令模式](http://www.rain1024.com/2019/10/26/1082/)
+6. [适配器模式外观模式](http://www.rain1024.com/2019/11/02/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e4%b8%83%e7%ab%a0%e9%80%82%e9%85%8d%e5%99%a8%e6%a8%a1%e5%bc%8f%e4%b8%8e%e5%a4%96%e8%a7%82%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6/)
+7. [模版方法模式](http://www.rain1024.com/2019/11/11/%e3%80%8aheadfirst%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f%e3%80%8b%e7%ac%ac%e5%85%ab%e7%ab%a0%e6%a8%a1%e7%89%88%e6%96%b9%e6%b3%95%e6%a8%a1%e5%bc%8f-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/)
 
 
 

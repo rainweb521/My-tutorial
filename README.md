@@ -19,13 +19,23 @@
 
 ### Kafka开发
 
-1. 编写标准的生产者实例
-2. 编写标准的消费者实例
+1. [编写标准的生产者实例](Kafka编写标准的生产者实例.md)
+2. [编写标准的消费者实例](Kafka编写标准的消费者实例.md)
+3. 
 
 ### Netty开发
 
 1. [Netty4入门基础之Http请求的编写和实现](Netty4入门基础之Http请求的编写和实现.md)
 2. Netty4入门基础之编写http客户端与服务端
+
+### Zookeeper开发
+
+
+
+### 分布式应用
+
+1. [基于SnowFlake算法生成分布式ID](基于SnowFlake算法生成分布式ID.md)
+2. 
 
 ### SpringBoot开发
 1. [开始第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
@@ -33,7 +43,6 @@
 3. [使用SpringBoot-Email来发送多种类型邮件](使用SpringBoot-Email发送多种类型邮件.md)
 4. SpringBoot整合TkMybatis无需编写mapper
 5. 在SpringBoot中使用AOP进行切面编程
-6. 
 
 ### SpringCloud开发
 

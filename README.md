@@ -4,11 +4,7 @@
 > 1. 在部署代码时因为环境的不统一导致各种问题。  
 > 2. 在学习代码的时候不清楚框架的语法和结构难以为己用。 
 > 
-> 所以犹豫了一段时间以后还是决定来慢慢完善这个项目，我做过和学过的东西很多，基本都是自学，所以遇到很多坑，如何将这些不必要的坑分享出来省的大家再走一遍，但毕竟我还才毕业，能力有限，见识微薄，有些问题我也未遇到过，不过我有很大的兴趣去研究和学习新的技术。 最终将这个教程完善成为一个完整的知识体系。
-
-## 概述
-这里会写Java，Python，PHP，以及比较迷的Scala，因为我的工作是大数据，所以主要还是以大数据为主，平时自己做的一些好玩的程序如果有时间也会分享到这里。
-大数据开发是很麻烦的，所以我尽量从搭建，部署，开发整个流程都做出来，单独的环节可利用率很低。还有以前一些程序的搭建过程。
+> 所以犹豫了一段时间以后还是决定来慢慢完善这个项目，我做过和学过的东西很多，基本都是自学，所以遇到很多坑，如何将这些不必要的坑分享出来省的大家再走一遍，但毕竟能力有限，见识微薄，有些问题我也未遇到过，不过我有很大的兴趣去研究和学习新的技术。 最终将这个教程完善成为一个完整的知识体系。
 
 ###  有问题的可以加入群聊： 
 ### 群一：226520254（满）
@@ -17,13 +13,25 @@
 ### 群三：863184226
 
 ## 目录（有蓝色链接的为已完成）
-## 视频开发教程
+
+### Java基础
+
+1. [重写线程池ThreadFactory接口实现对线程异常的捕获](https://zhuanlan.zhihu.com/p/390277260)
+2. [JAVA开发MQTT程序总结](https://zhuanlan.zhihu.com/p/108861336)
+3. [从TheadLocalMap看哈希碰撞后开放寻址法的实现过程](https://zhuanlan.zhihu.com/p/356419799)
 
 ### Kafka开发
 
 1. [编写标准的生产者实例](Kafka编写标准的生产者实例.md)
 2. [编写标准的消费者实例](Kafka编写标准的消费者实例.md)
 3.  [使用两种多线程模式消费数据](使用两种多线程模式消费数据.md)
+4. [Kafka涉及到的多种选举机制](https://zhuanlan.zhihu.com/p/357042753)
+5. [Kafka多线程消费位移提交](https://zhuanlan.zhihu.com/p/356656583)
+6. [Kafka中再均衡的发生过程](https://zhuanlan.zhihu.com/p/355671469)
+7. [Kafka实现订单超时取消的两种模拟策略](https://zhuanlan.zhihu.com/p/353743438)
+8. [Kafka瞬间失去Zookeeper后运行状态](https://zhuanlan.zhihu.com/p/321815132)
+9. [Kafka的主题删除机制](https://zhuanlan.zhihu.com/p/242727407)
+10. [Kafka磁盘缓存技术分析](https://zhuanlan.zhihu.com/p/353113576)
 
 ### Netty开发
 
@@ -37,18 +45,42 @@
 3. [Zookeeper集群介绍](Zookeeper集群介绍.md)
 4. [Zookeeper实现Dubbo注册中心](Zookeeper实现Dubbo注册中心.md)
 5. [Zookeeper实现Master选举机制](Zookeeper实现Master选举机制.md)
+6. [Zookeeper磁盘缓存技术分析](https://zhuanlan.zhihu.com/p/353113576)
 
 ### 分布式应用
 
 1. [基于SnowFlake算法生成分布式ID](基于SnowFlake算法生成分布式ID.md)
-2. 
+2. [NAS对分布式系统CAP理论的理解](https://zhuanlan.zhihu.com/p/108642696)
+3. [分布式锁的锁优化](https://zhuanlan.zhihu.com/p/341801259)
+4. [分布式锁实践中的一些坑及优化手段](https://zhuanlan.zhihu.com/p/356011052)
 
-### SpringBoot开发
+### 微服务开发
 1. [开始第一个SpringBoot开发的WEB程序](https://www.bilibili.com/video/av53910752/)
 2. [使用SpringBoot来上传文件](SpringBoot上传文件.md)  
 3. [使用SpringBoot-Email来发送多种类型邮件](使用SpringBoot-Email发送多种类型邮件.md)
-4. SpringBoot整合TkMybatis无需编写mapper
-5. 在SpringBoot中使用AOP进行切面编程
+4. [微服务架构的多种部署模式](https://zhuanlan.zhihu.com/p/115099542)
+5. [浅析微服务注册中心的注册与发现](https://zhuanlan.zhihu.com/p/354864682)
+6. [无状态节点服务的缓存数据同步实现](https://zhuanlan.zhihu.com/p/379678091)
+
+
+
+### Java性能调优
+
+1. [Java性能调优的个人总结分享](https://zhuanlan.zhihu.com/p/228788808)
+2. [服务频繁发生YoungGC的处理过程（合理压测）](https://zhuanlan.zhihu.com/p/382962759)
+
+
+
+### 数据库开发
+
+1. [数据库读写分离时，主从延时导致数据不一致的解决方案](https://zhuanlan.zhihu.com/p/341642993)
+2. [MySQL-Redis磁盘缓存技术分析](https://zhuanlan.zhihu.com/p/353113576)
+3. [我由幻读而明白了数据库事务](https://zhuanlan.zhihu.com/p/355753933)
+4. [MySQL查询缓存与Innodb引擎的自适应哈希索引](https://zhuanlan.zhihu.com/p/357413216)
+5. [缓存数据一致性如何保证](https://zhuanlan.zhihu.com/p/357684032)
+6. [mysql自动合并索引(index merge)查询导致死锁问题](https://zhuanlan.zhihu.com/p/357832653)
+7. [MySQL与Redis中对LRU算法的使用](https://zhuanlan.zhihu.com/p/365080258)
+8. [Hash底层存储原理及优化Redis中big Hash的一些建议](https://zhuanlan.zhihu.com/p/357165227)
 
 ### SpringCloud开发
 
@@ -98,7 +130,6 @@
 
 
   
-
 
 
 
